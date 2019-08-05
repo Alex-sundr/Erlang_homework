@@ -1,0 +1,2 @@
+-module(p16).
+-export([function/arity]).
